@@ -104,9 +104,11 @@ body {
 
 .idea-5 span,
 .idea-6 span,
-.wish-hbd span {
-  display: inline-block;
+.wish-hbd {
+  white-space: pre-line;
 }
+
+
 
 .idea-6 span {
   font-size: 15rem;
